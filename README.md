@@ -4,7 +4,7 @@ ProblemPilot is a full-stack MERN application designed to help programmers track
 
 ## 🌐 Live Demo
 
-**Frontend:** https://promblem-pilot-46vk.vercel.app
+**Frontend:** https://problempilot.vercel.app
 
 **Backend API:** https://promblempilot.onrender.com
 
