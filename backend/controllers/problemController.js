@@ -1,4 +1,4 @@
-const Problem = require("../models/problemModel");
+const Problem = require("../models/Problem");
 
 
 // @desc Create Problem
