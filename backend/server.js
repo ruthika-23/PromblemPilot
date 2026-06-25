@@ -12,7 +12,8 @@ const app = express();
 app.use(cors({
   origin: [
     "http://localhost:5173",
-    "https://promblem-pilot-46vk.vercel.app"
+    "https://promblem-pilot-46vk.vercel.app",
+    "https://problempilot.vercel.app"
   ],
   credentials: true
 }));
